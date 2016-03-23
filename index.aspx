@@ -12,6 +12,7 @@
         <h1>Learning ASP.NET</h1>
         <p>Are you new to ASP.NET. So am I. Let's learn together!</p>
         <p>I found this page sitting around on the desktop. Now it is back in the correct location!</p>
+        <p>Checking this out again!</p>
     </div>
     </form>
 </body>
